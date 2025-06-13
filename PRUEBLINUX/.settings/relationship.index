@@ -1,1 +1,16 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_PimBAEigEfCUjLyCLvw8fQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_K6P84EigEfCUjLyCLvw8fQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_K6P84EigEfCUjLyCLvw8fQ - CLIENTE",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
