@@ -13,4 +13,23 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_bEPREEuGEfCpxr1jnyUgCA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_R8K5UEuGEfCpxr1jnyUgCA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_pS4hEEuGEfCpxr1jnyUgCA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_R8K5UEuGEfCpxr1jnyUgCA - DETALLE_FACTURA",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
